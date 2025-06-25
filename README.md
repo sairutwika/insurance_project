@@ -22,6 +22,11 @@ This is a Streamlit web app that predicts insurance risk based on user inputs li
 - Joblib
 - Streamlit
 
-## 📁 Project Structure
+
+## 🧑‍💻 Author
+
+Elluru Rutwika
+
+
 
 
